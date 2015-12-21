@@ -1,2 +1,2 @@
-# git-fame
-git-fame.php
+# git-fame (just for fum)
+php git-fame.php [/path/to/git/repo]
